@@ -1,0 +1,94 @@
+
+.TituloPrincipal{
+   display: block;
+   padding-left: 30px;
+   margin: 0 auto;
+   text-align: center;
+}
+
+
+nav li{
+   display: inline;
+   padding-left: 30px;
+   position: relative;
+   margin: 0 0 0 15px;
+   top: 0px;
+}
+
+nav a{
+   text-transform: uppercase;
+   color: black;
+   font-weight: bold;
+   font-size: 22px;
+   text-decoration: none;
+}
+
+nav a:hover{
+
+   color:#c78c19;
+   text-decoration: underline;
+}
+
+
+#YT{
+   width: 27px;
+}
+
+.Principal{
+   background: #DDDDDD;
+   padding: 20px;
+}
+
+.TituloCentrado{
+   text-align: center;
+}
+
+p{
+   text-align: center;
+}
+
+em strong{
+   color: red;
+}
+
+#mision{
+   font-size: 20px;
+}
+
+.Diferenciales{
+  background: #FFFFFF;
+  padding: 30px;
+}
+
+.Dif{
+   display: inline-block;
+   vertical-align: top;
+   width: 20%;
+   margin-right: 15%;
+}
+
+.items{
+   font-style: italic;
+}
+
+.ImagenDif{
+   width: 50%;
+}
+
+footer{
+   text-align: center;
+   background: url(Imagenes/bg.jpg);
+   padding: 40px;
+}
+
+.Copyright{
+   color: #FFFFFF;
+   font-size: 13px;
+   margin: 20px;
+}
+
+/* CSS para home */
+
+.banner{
+   width: 100%;
+}
